@@ -1,0 +1,6 @@
+[submodule "socket-messenger-backend"]
+	path = socket-messenger-backend
+	url = https://github.com/rmartinezusa/socket-messenger-backend.git
+[submodule "socket-messenger-frontend"]
+	path = socket-messenger-frontend
+	url = https://github.com/rmartinezusa/socket-messenger-frontend.git
